@@ -1,0 +1,4 @@
+tap(11):::android.widget.TabWidget_423_1988_android.view.View_423_185_5
+tap(34):::2343347011_p_n_size_browse-vebin_2343357011_15
+tap(36):::android.view.View_665_143_android.view.View_455_143_Show171results_0
+stop

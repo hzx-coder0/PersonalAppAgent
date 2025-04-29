@@ -1,0 +1,6 @@
+tap(11):::android.view.View_1106_126_android.widget.Button_1102_122_0
+swipe(45:sep:up):::android.webkit.WebView_1240_2045_android.webkit.WebView_1240_2202_0
+tap(18):::a-autoid-43_a-autoid-43-announce_0
+tap(12):::android.view.View_1106_126_android.widget.Button_1102_119_0
+tap(44):::android.widget.LinearLayout_1240_168_androidx.appcompat.app.ActionBar$Tab_314_168_2
+stop

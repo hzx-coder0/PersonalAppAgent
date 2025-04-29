@@ -1,0 +1,3 @@
+tap(8):::com.android.email.id_coui_toolbar_more_view_com.android.email.id_send_0
+tap(3):::android.widget.LinearLayout_562_203_android.id_button1_0
+stop

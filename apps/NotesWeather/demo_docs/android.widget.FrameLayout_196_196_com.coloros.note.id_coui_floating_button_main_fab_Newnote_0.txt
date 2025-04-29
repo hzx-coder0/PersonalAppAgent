@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element allows the user to add a new item to their notes. This action typically opens a text entry interface for creating or editing a note.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

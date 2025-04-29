@@ -1,0 +1,7 @@
+tap(20):::android.view.ViewGroup_1180_1974_android.widget.TextView_236_329_Weather_15
+home
+tap(17):::android.view.ViewGroup_1180_1974_android.widget.TextView_236_329_Notes_12
+tap(13):::android.widget.FrameLayout_196_196_com.coloros.note.id_coui_floating_button_main_fab_Newnote_0
+text(6:sep:"plan"):::com.coloros.note.id_bounce_layout_android.webkit.WebView_1239_1126_1
+tap(5):::com.coloros.note.id_rl_toolbar_com.coloros.note.id_edit_complete_Done_1
+stop

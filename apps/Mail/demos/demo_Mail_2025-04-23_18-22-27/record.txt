@@ -1,0 +1,3 @@
+tap(2):::com.android.email.id_compose_area_lay_com.android.email.id_subject_layout_container_2
+text(2:sep:"share my daily life"):::com.android.email.id_compose_area_lay_com.android.email.id_subject_layout_container_2
+stop

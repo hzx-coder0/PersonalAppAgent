@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will display the available products that match the selected filters for T-shirts, allowing the user to view and select items to add to their cart.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

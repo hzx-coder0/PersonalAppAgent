@@ -1,0 +1,9 @@
+tap(5):::android.widget.FrameLayout_196_196_com.android.email.id_coui_floating_button_main_fab_SendMessage_0
+tap(1):::android.widget.LinearLayout_1128_105_com.android.email.id_recipient_edit_text_1
+text(1:sep:"2031294950@qq.com"):::android.widget.LinearLayout_1128_105_com.android.email.id_recipient_edit_text_1
+tap(4):::com.android.email.id_compose_area_lay_com.android.email.id_subject_layout_container_2
+text(4:sep:"hello"):::android.widget.LinearLayout_1128_105_com.android.email.id_enter_subject_compose_1
+tap(5):::com.android.email.id_body_view_ly_com.android.email.id_body_view_0
+text(4:sep:"main content"):::com.android.email.id_body_view_ly_com.android.email.id_body_view_0
+tap(7):::com.android.email.id_coui_toolbar_more_view_com.android.email.id_send_0
+stop

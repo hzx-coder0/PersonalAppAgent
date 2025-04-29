@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will display detailed weather information for the selected day, allowing the user to view various weather parameters and prepare accordingly.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

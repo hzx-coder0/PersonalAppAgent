@@ -1,0 +1,1 @@
+{'tap': '', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': '', 'home': 'The home area of the app serves as a dashboard displaying the current weather conditions, forecast, and air quality information for the user¡¯s location. This function can be accessed any time to get updated weather details and forecasts.'}

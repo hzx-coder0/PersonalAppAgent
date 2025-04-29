@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Debug document_generation.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/document_generation.py",
+      "console": "integratedTerminal",
+      "args": [
+        "--app",
+        "Calendar",
+        "--demo",
+        "apps/Calendar/demos/demo_Calendar_2025-03-14_17-34-19",
+        "--root_dir",
+        "./"
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "appName",
+      "description": "Enter the name of the app"
+    },
+    {
+      "type": "promptString",
+      "id": "demoName",
+      "description": "Enter the name of the demo"
+    }
+  ]
+}

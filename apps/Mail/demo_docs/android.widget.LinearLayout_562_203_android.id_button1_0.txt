@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will confirm the action to send the message despite the subject being empty. This allows the user to proceed with the message delivery.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

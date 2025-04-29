@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element allows the user to add the selected T-shirt to their shopping cart, enabling them to proceed with the purchase. If you want to add something to your cart, after you tap it, you must call finish() function to complete your task. ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

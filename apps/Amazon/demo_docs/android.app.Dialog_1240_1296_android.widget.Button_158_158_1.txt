@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will allow the user to close the current view or return to the previous screen. This action is typically used to dismiss the detailed view of an item.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

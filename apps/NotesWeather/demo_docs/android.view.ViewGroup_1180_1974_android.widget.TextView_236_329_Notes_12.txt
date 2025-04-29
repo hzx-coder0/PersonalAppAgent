@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will open the Notes app, allowing the user to view and organize their notes. This facilitates the creation and management of plans, such as checking the weather or scheduling tasks.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

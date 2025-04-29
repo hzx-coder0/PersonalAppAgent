@@ -1,0 +1,16 @@
+tap(1):::android.widget.RelativeLayout_1240_210_com.amazon.mShop.android.shopping.id_chrome_search_box_Search_0
+text(1:sep:"T-shirt"):::com.amazon.mShop.android.shopping.id_webview_search_entry_com.amazon.mShop.android.shopping.id_rs_search_entry_bar_SearchAmazon_0
+enter
+tap(4):::s-all-filters_s-all-filters-announce_0
+tap(19):::refinements_preference_pill_lps_0
+tap(21):::refinements_p_n_feature_thirty-two_browse-bin_121075131011_2
+tap(36):::android.view.View_665_143_android.view.View_455_143_Show415results_0
+swipe(49:sep:up):::android.webkit.WebView_1240_2045_android.webkit.WebView_1240_2202_0
+swipe(49:sep:up):::android.webkit.WebView_1240_2199_android.webkit.WebView_1240_2202_0
+swipe(59:sep:up):::android.webkit.WebView_1240_2199_android.webkit.WebView_1240_2202_0
+tap(36):::a-autoid-36_a-autoid-36-announce_0
+tap(12):::android.view.View_1106_126_android.widget.Button_1102_122_0
+tap(37):::a-autoid-36_a-autoid-36-announce_0
+tap(4):::android.app.Dialog_1240_1296_android.widget.Button_158_158_1
+tap(55):::android.widget.LinearLayout_1240_168_androidx.appcompat.app.ActionBar$Tab_314_168_2
+stop

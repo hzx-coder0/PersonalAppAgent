@@ -1,0 +1,1 @@
+{'tap': '', 'text': 'This input area allows the user to type a note or plan, which can be saved and referred to later. It is essential for documenting thoughts or tasks related to the weather check and planning process.', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

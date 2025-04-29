@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will display the search results for T-shirts available for purchase, allowing the user to review and select products to add to their cart.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

@@ -1,0 +1,1 @@
+{'tap': '', 'text': '', 'v_swipe': 'Swiping this UI element allows the user to view more information and options related to a specific product. It is a necessary action to complete the task of adding an item to the shopping cart.', 'h_swipe': '', 'long_press': ''}

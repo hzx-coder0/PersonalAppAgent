@@ -1,0 +1,1 @@
+{'tap': "Tapping this UI element will add the selected T-shirt to the user's shopping cart, facilitating the purchase process. It serves as a crucial step in completing the online shopping task.", 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

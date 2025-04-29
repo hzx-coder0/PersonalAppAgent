@@ -1,0 +1,1 @@
+{'tap': "Tapping this UI element will switch your page to your cart, allowing you to check up whether the commodity has been added to your cart. Always you must call finish() function and not do other actions to complete your task after tapping this UI element if you find the commodity have been added.", 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

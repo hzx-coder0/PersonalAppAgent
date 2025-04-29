@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element allows the user to select a color filter for the T-shirts, enabling narrowed down choices based on color preferences. This selection is essential for customizing the search results to find desired T-shirts.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

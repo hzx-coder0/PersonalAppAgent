@@ -1,0 +1,1 @@
+{'tap': 'Tapping this area will open a new message window for composing and sending a message.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

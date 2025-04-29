@@ -1,0 +1,7 @@
+tap(19):::refinements_preference_pill_mps_0
+tap(26):::refinements_p_n_feature_thirty-two_browse-bin_121075131011_2
+tap(36):::android.view.View_665_143_android.view.View_455_143_Show405results_0
+swipe(48:sep:up):::android.webkit.WebView_1240_2045_android.webkit.WebView_1240_2202_0
+tap(18):::a-autoid-40_a-autoid-40-announce_0
+tap(12):::android.view.View_1106_126_android.widget.Button_1102_119_0
+stop

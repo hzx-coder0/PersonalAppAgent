@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will initiate the display of filtered T-shirt search results based on the selected criteria. It allows the user to view available options for adding a T-shirt to their cart. You must tap it first to apply the filters to commodities.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

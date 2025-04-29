@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element initiates a search bar for the specified term, allowing the user to find specific items, such as T-shirts, within the app. This action is essential for moving forward with the shopping process. You must tap it first to initiate the search bar to search for some specifical commodities.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

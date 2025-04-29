@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will send the composed message to the specified email address. After you tap this UI element, you must call finish() function to complete your task no matter whatever is observed.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

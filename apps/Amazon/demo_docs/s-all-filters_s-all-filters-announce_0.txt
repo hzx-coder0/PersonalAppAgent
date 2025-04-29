@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will open a filters menu, allowing users to refine their search results for T-shirts based on various criteria. This functionality is essential for narrowing down options before proceeding to add items to the cart.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

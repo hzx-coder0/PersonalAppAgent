@@ -1,0 +1,1 @@
+{'tap': "Tapping this UI element allows the user to apply a filter to the product search, specifically for the 'Most Purchased' items. This feature helps streamline the shopping experience by showing popular choices among other users.", 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

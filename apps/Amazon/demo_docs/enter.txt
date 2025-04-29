@@ -1,0 +1,1 @@
+{'tap': '', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': '', 'enter': 'This function is used to search for products related to a specific term. It can be called when the user wants to find items based on a keyword or phrase.'}

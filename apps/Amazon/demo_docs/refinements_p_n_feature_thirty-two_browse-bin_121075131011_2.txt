@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element allows the user to filter their search results by selecting the "Women" category, which helps to narrow down product options to those specifically designed for women. This is an essential step in the process of selecting a T-shirt to add to the cart.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}
