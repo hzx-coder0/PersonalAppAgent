@@ -1,7 +1,7 @@
 # PersonalAppAgent
 
 
-## 🚀 Quick Start
+## 1. 🚀 Quick Start
 
 This section will guide you on how to quickly use `gpt-4o-mini` as an agent to complete specific tasks for you on
 your Android app.
@@ -95,6 +95,22 @@ documentation (success rate not guaranteed).
 ```bash
 streamlit run fronted.py
 ```
+
+## 2. 📹 DEMO 
+
+## 📹 DEMO 
+
+### Notes and Weather
+The demo video shows the process of using PersonalAppAgent to check the weather in Weather App and make a short plan in Notes App in a personal way.
+<video src="./src/Notesweather.mp4" controls width="640"></video>
+
+### Mail
+The demo video shows that the PersonalAppAgent sends a mail to 2031294950@qq.com in a personal way.
+<video src="./src/mail.mp4" controls width="640"></video>
+
+### Amazon
+An example of adding a T-shirt aligned with personal interest to the cart in Amazon.
+<video src="./src/Amazon.mp4" controls width="640"></video>
 
 
 
