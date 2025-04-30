@@ -100,13 +100,16 @@ streamlit run fronted.py
 
 ### Notes and Weather
 The demo video shows the process of using PersonalAppAgent to check the weather in Weather App and make a short plan in Notes App in a personal way.
+
 https://github.com/user-attachments/assets/a36bd52f-835e-42a5-ab75-69c29908bd98
 
 ### Mail
 The demo video shows that the PersonalAppAgent sends a mail to 2031294950@qq.com in a personal way.
+
 https://github.com/user-attachments/assets/34096b91-e226-468a-be2e-71d3f6850ee7
 ### Amazon
 An example of adding a T-shirt aligned with personal interest to the cart in Amazon.
+
 https://github.com/user-attachments/assets/16194c46-2dd5-47e8-a3df-7e7bd5387a87
 
 
