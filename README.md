@@ -98,8 +98,6 @@ streamlit run fronted.py
 
 ## 2. 📹 DEMO 
 
-## 📹 DEMO 
-
 ### Notes and Weather
 The demo video shows the process of using PersonalAppAgent to check the weather in Weather App and make a short plan in Notes App in a personal way.
 https://github.com/user-attachments/assets/a36bd52f-835e-42a5-ab75-69c29908bd98
