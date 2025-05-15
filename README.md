@@ -5,16 +5,16 @@
 ### Notes and Weather
 The demo video shows the process of using PersonalAppAgent to check the weather in Weather App and make a short plan in Notes App in a personal way.
 
-https://github.com/user-attachments/assets/a36bd52f-835e-42a5-ab75-69c29908bd98
+https://github.com/user-attachments/assets/4990bb94-5858-425c-bf49-f493d65e5b2e
 
 ### Mail
 The demo video shows that the PersonalAppAgent sends a mail to 2031294950@qq.com in a personal way.
 
-https://github.com/user-attachments/assets/34096b91-e226-468a-be2e-71d3f6850ee7
+https://github.com/user-attachments/assets/6534bad8-6be1-4b91-b55d-799ae9b2025f
 ### Amazon
 An example of adding a T-shirt aligned with personal interest to the cart in Amazon.
 
-https://github.com/user-attachments/assets/16194c46-2dd5-47e8-a3df-7e7bd5387a87
+https://github.com/user-attachments/assets/121a7219-ebd9-4eb6-8115-eee2d2787c3e
 
 
 ## 2. 🚀 Quick Start
