@@ -1,0 +1,4 @@
+tap(1):::android.widget.LinearLayout_1128_105_com.android.email.id_recipient_edit_text_1
+text(1:sep:"2031294950@qq.com"):::android.widget.LinearLayout_1128_105_com.android.email.id_recipient_edit_text_1
+tap(3):::android.widget.LinearLayout_1128_105_com.android.email.id_recipient_edit_text_1
+stop

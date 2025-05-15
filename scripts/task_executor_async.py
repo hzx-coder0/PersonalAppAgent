@@ -236,12 +236,13 @@ async def task_executor_async(device, app, task_desc, root_dir="./"):
         async for partial_rsp in mllm.get_response_stream(prompt, [image]):
             rsp += partial_rsp
             yield rsp, partial_rsp
+            
+            
         print_with_color(rsp, "magenta")
         end = time.time()
         status = True
         print_with_color(f"Time taken to get response: {end - start:.2f} seconds", "yellow")
         print_with_color("Response received from the model:", "yellow")
-        print_with_color(rsp, "magenta")
         if status:
             with open(log_path, "a") as logfile:
                 log_item = {"step": round_count, "prompt": prompt, "image": f"{dir_name}_{round_count}_labeled.png",

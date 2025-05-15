@@ -1,0 +1,1 @@
+{'tap': 'Tapping this UI element will open a new message interface, allowing the user to compose and send an email.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

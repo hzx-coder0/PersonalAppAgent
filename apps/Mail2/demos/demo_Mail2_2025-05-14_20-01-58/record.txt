@@ -1,0 +1,10 @@
+tap(5):::android.widget.FrameLayout_196_196_com.android.email.id_coui_floating_button_main_fab_SendMessage_0
+text(1:sep:"2031294950@qq.com"):::android.widget.LinearLayout_1128_105_com.android.email.id_recipient_edit_text_1
+tap(3):::android.widget.LinearLayout_1128_105_com.android.email.id_recipient_edit_text_1
+tap(4):::com.android.email.id_compose_area_lay_com.android.email.id_subject_layout_container_2
+text(3:sep:"daily life"):::com.android.email.id_compose_area_lay_com.android.email.id_subject_layout_container_2
+tap(5):::com.android.email.id_body_view_ly_com.android.email.id_body_view_0
+text(4:sep:"daily life"):::com.android.email.id_body_view_ly_com.android.email.id_body_view_0
+tap(7):::com.android.email.id_coui_toolbar_more_view_com.android.email.id_send_0
+tap(3):::android.widget.LinearLayout_562_203_android.id_button1_0
+stop
